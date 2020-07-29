@@ -1,0 +1,12 @@
+# Site settings
+title: Vantage Tech
+email: contact@vantagetech.net
+description: Here for all of your technology needs > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://vantagetech-ny.github.io/VantageTech-NY/" # the base hostname & protocol for your site
+
+#twitter_username:
+github_username: vantagetech-ny
+
+# Build settings
+markdown: kramdown
