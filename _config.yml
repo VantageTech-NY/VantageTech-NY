@@ -5,7 +5,7 @@ description: Here for all of your technology needs > # this means to ignore newl
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vantagetech-ny.github.io/VantageTech-NY/" # the base hostname & protocol for your site
 
-#twitter_username:
+twitter_username:
 github_username: vantagetech-ny
 
 # Build settings
